@@ -11,7 +11,6 @@ import java.util.function.BiFunction;
 
 /**
  * Class That Implements The Minimum Spark Methods For The App.
- * Author: Daniel Felipe Walteros Trujillo
  */
 public class NanoSparkImpl implements NanoSpark {
 
